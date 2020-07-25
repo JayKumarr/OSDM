@@ -3,7 +3,7 @@ This code belongs to ACL'2020 conference paper entitled as "An Online Semantic-e
 
 * Python verion 3.7.x
 
-# Parameter
+# Parameter Settings
 
 * alpha = 0.002
 * beta = 0.0004
