@@ -1,5 +1,5 @@
 # OSDM
-This code belongs to ACL'2020 conference paper entitled as "An Online Semantic-enhanced Dirichlet Model for Short Text Stream Clustering"
+This code belongs to ACL'2020 conference paper entitled as "An Online Semantic-enhanced Dirichlet Model for Short Text Stream Clustering" https://www.aclweb.org/anthology/2020.acl-main.70.pdf
 
 * Python verion 3.7.x
 
