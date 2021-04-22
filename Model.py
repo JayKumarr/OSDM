@@ -66,7 +66,7 @@ class Model:
                 for j in range(freq):
                     i+=1
                     eqPart2Nominator *= ( widFreqInClus*icf + self.beta+j )
-                    eqPart2Denominator *= (numOfWordsInClus * VintoBETA + i)
+                    eqPart2Denominator *= (numOfWordsInClus + VintoBETA + i)
 
             eqPart2 = eqPart2Nominator / eqPart2Denominator
             if (self.applyCWW == True): # to control applying CWW from main method
